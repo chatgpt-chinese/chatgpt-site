@@ -1,19 +1,25 @@
-# 【国内中文版】 ChatGPT国内中文版镜像网站整理（2024/11/20）
+# 【ChatGPT中文版】 国内免费 ChatGPT中文版镜像网站整理（无限使用GPT-4o和o1）【2024.11.21】 
 
-**无需翻墙**！快速体验 **ChatGPT中文版** 服务，支持 GPT-4、4o、o1 和AI绘画、AI PPT、AI助手功能！ 
-我们为大家整理了国内可用的 **ChatGPT中文版镜像网站**，专门解决访问难、速度慢等问题，同时提供详细的使用教程和站点功能对比，让您轻松选择最适合的站点。
+> 更新时间：2024/11/21 <br />
+> 作者：chatgpt-chinese
 
-## 什么是 ChatGPT中文镜像网站？
-**ChatGPT中文镜像网站** 是面向国内用户的一个好用工具，帮助大家轻松使用 ChatGPT的服务。
-由于众所周知的网络限制，很多用户可能无法直接使用 ChatGPT官方服务，而这些镜像站点通过国内服务器部署，让用户**无需翻墙**即可使用上 ChatGPT的强大功能。  
+欢迎访问本项目！我们为大家整理了一些国内可用的 **ChatGPT中文版**网站资源，方便用户无需翻墙即可快速访问 GPT 的强大功能<br />
+同时提供了免费的使用教程，助您在国内使用上**免费ChatGPT中文版镜像网站**，**无限制使用GPT-4o、o1**。
 
-## 为什么选择 ChatGPT中文镜像网站？ 
-- **中文优化**：部分镜像站点提供中文界面或更好的中文语言支持。
-- **无需翻墙**：直接访问，无需任何代理工具。
-- **高效快捷**：本地化部署，大幅提高访问速度和稳定性。
-- **免费试用**：许多站点提供免费体验额度，让用户轻松上手。
+## 什么是ChatGPT中文版？
 
-## 精选好用的 ChatGPT中文版
+**ChatGPT中文版**镜像网站是指通过复制ChatGPT官网的网站内容和结构，创建的备用网站，助大家使用上ChatGPT服务。<br />
+由于众所周知的网络限制，很多用户可能无法直接使用 ChatGPT官方服务，而这些镜像站点通过国内服务器部署，让用户无需翻墙即可使用上 ChatGPT的强大功能。
+
+### ChatGPT 镜像站有哪些优势？
+
+- **无需翻墙**：国内就能直接用，不需要任何代理工具。
+- **中文版优化**：ChatGPT镜像站能提供中文界面，更好的中文语言支持。
+- **无限制使用4o和o1**：ChatGPT中文版，不受官网GPT-4o（_每3小时80次_）、o1频次（_每周50次_）的使用限制，**无限制使用GPT-4o和o1模型**。
+- **功能全面**：ChatGPT中文版功能更全面，支持AI绘画、AI知识库、AI思维导图、AI文件、AI PPT等等实用功能，更适合国内用户使用~
+- **免费试用**：ChatGPT镜像网站，提供免费体验额度，使用更简单~
+
+## 精选推荐的 国内ChatGPT中文版镜像网站
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
 - [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
@@ -21,29 +27,31 @@
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 - [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
-## 国内自研大模型汇总
+## 如何快速开始使用？（详细教程）
+  选择上方的网址，如：[https://chat.lify.vip/](https://chat.lify.vip/)。 <br />
+  在左上角，点击登录（也可以直接提问）<br />
+  弹出二维码后，使用微信扫码就可以了~~
 
-- [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - 文心一言，百度出品
-- [https://tongyi.aliyun.com/](https://tongyi.aliyun.com/) - 通义千问，阿里出品
-- [https://techday.sensetime.com/](https://techday.sensetime.com/) - 商量，商汤科技出品
-- [https://tiangong.kunlun.com/](https://tiangong.kunlun.com/) - 天工 AI 助手，天工大模型
-- [https://xinghuo.xfyun.cn/](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型
-- [https://moss.fastnlp.top/](https://moss.fastnlp.top/) - Moss，复旦团队出品
-- [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，360 出品
-- [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 清华大学唐杰团队开发
+## 常见问题解答（FAQ）
+### 1. 使用镜像站是否需要翻墙？
+&nbsp;&nbsp;不需要，所有站点均可直接在国内网络环境下访问。
+  
+### 2. 镜像站是否稳定？
+&nbsp;&nbsp;所有列入的镜像站，均是经过精选后的，**至少稳定运行1年以上的**，才会被列入。
 
-## AI工具集导航网站:
+### 3. 镜像站是否永久免费？
+&nbsp;&nbsp;部分站点提供免费额度。
 
-- [https://yixiaai.cn/](https://yixiaai.cn/) - AI工具导航网站，各种AI工具都有~
-- [https://ai-bot.cn/](https://ai-bot.cn) - 第一次加载较慢
-- [https://c.runoob.com/ai/](https://c.runoob.com/ai/) - 菜鸟工具
+### 4. GPT-4o、o1官网限频使用，镜像站也限吗？
+&nbsp;&nbsp;API镜像不限频，无限制使用，哪怕o1也不限
+&nbsp;&nbsp;逆向镜像跟官网一样限制（o1每周50次），使用受限制。
+&nbsp;&nbsp;建议使用上面**精选的镜像网站**。
 
-## 注意事项
+### 5. 这些镜像站是否安全？
+&nbsp;&nbsp;所有推荐站点均通过安全检测，可安全使用，但建议规避敏感词。
 
-- 请定期检查链接的有效性及其安全性。
-- 遵守相关法律法规，合法合规地使用镜像网站。
-- 如果发现上述链接存在安全问题或失效，请务必报告给我们，我们会及时更新。
+## 联系我们与持续更新
+本项目会定期更新新的镜像站点和使用教程！如有需要，可与我联系~
 
-## 更新日志
-
-将记录所有修改和更新，以便用户了解最新信息和变化。
+## 支持我们
+如果觉得本项目对您有帮助，请点亮 ⭐ Star！让更多人看到这个资源。
