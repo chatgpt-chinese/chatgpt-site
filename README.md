@@ -1,4 +1,4 @@
-# 【ChatGPT中文版】 国内免费 ChatGPT中文版镜像网站整理（无限使用GPT-4o和o1）【2024.12.17】
+# 【ChatGPT中文版】 国内免费 ChatGPT中文版镜像网站整理（无限使用GPT-4o和o1）【2024.12.18】
 
 > 更新时间：2024/12/18 <br />
 > 作者：chatgpt-chinese 
